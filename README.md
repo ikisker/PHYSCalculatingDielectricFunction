@@ -126,23 +126,6 @@ Total thickness: [value] (μm)
 - **Bottom plot**: Phase vs frequency
 - Real-time chi-squared value display
 
-## Material Properties
-
-### Default MAPbI3 Parameters
-
-Based on literature values:
-
-- TO frequencies: 63, 32 cm⁻¹
-- LO frequencies: 133, 40 cm⁻¹
-- High-frequency dielectric constant: 3.94
-
-### Default PbI2 Parameters
-
-Optimized values:
-
-- TO frequency: 54.05 cm⁻¹
-- LO frequency: 117.57 cm⁻¹
-- High-frequency dielectric constant: 4.19
 
 ## Technical Details
 
