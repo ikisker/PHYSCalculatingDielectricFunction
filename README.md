@@ -164,6 +164,11 @@ See LICENSE file for details.
 
 If you use this tool in your research, please cite the relevant papers on MAPbI3 dielectric properties and terahertz spectroscopy.
 
+Sendner, M., Nayak, P. K., Egger, D. A., Beck, S., Müller, C., Epding, B., Kowalsky, W.,
+Kronik, L., Snaith, H. J., Pucci, A., & Lovrinčić, R. (2016). Optical phonons in
+methylammonium lead halide perovskites and implications for charge transport. Materials
+Horizons, 3(6), 613–620. https://doi.org/10.1039/c6mh00275g
+
 ## Support
 
 For questions or issues, please open an issue on the GitHub repository.
